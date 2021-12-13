@@ -1,0 +1,59 @@
+.test{
+	background:green;
+	font-size:20;
+}
+
+h4{
+	font-size:inherit;
+}
+
+
+   body {
+	padding: 30px;
+	background: rgb(150, 290, 290);
+	font-style:Aria;
+	font-size: 14px;
+}
+
+
+hr{
+	margin: 5px;
+	text-align: center;
+	border: none;
+}
+hr:before,
+hr:after {
+	content: '';
+	display: inline-table;
+	width: 20px;
+	height: 20px;
+	border-radius: 75%;
+	background: red;
+	margin: 0 2px;
+}
+
+table{
+	font-style: Arial;
+	font-size: 30px;
+}
+
+.abzac{
+	display:inline;
+	text-align:center;
+	font-style: Arial;
+	font-size: 30px;
+}
+
+.photo{
+	display:inline;
+	text-align:center;
+	font-style: Arial;
+	font-size: 30px;
+}
+
+.list{
+	display:inline;
+	text-align:center;
+	font-style: Arial;
+	font-size: 30px;
+}
